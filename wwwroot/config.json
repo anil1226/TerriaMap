@@ -46,11 +46,12 @@
     // See comments in lib/Views/global.scss for further information about customising colors, logos, fonts etc.
     "brandBarElements": [
       "",
-      "<a target=\"_blank\" href=\"https://terria.io\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
+      "<a target=\"_blank\" href=\"https://kwris.aciwrm.org\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
       ""
     ],
     // Shown when things go wrong.
-    "supportEmail": "help@example.com",
+    "supportEmail": "kwris@aciwrm.org",
+	"hideTerriaLogo":true,
     // You probably shouldn't change this.
     "proj4ServiceBaseUrl": "proj4def/",
     // Or this
@@ -137,46 +138,46 @@
           }
           // -- Uncomment to enable the following trainer guides --
           // {
-          //   "title": "translate#stepbystepguide.satelliteimagery.title",
-          //   "footnote": "translate#stepbystepguide.satelliteimagery.footnote",
+          //   "title": "stepbystepguide.satelliteimagery.title",
+          //   "footnote": "stepbystepguide.satelliteimagery.footnote",
           //   "steps": [
           //     {
-          //       "title": "translate#stepbystepguide.satelliteimagery.step1.title",
-          //       "markdownDescription": "translate#stepbystepguide.satelliteimagery.step1.markdownDescription"
+          //       "title": "stepbystepguide.satelliteimagery.step1.title",
+          //       "markdownDescription": "stepbystepguide.satelliteimagery.step1.markdownDescription"
           //     },
           //     {
-          //       "title": "translate#stepbystepguide.satelliteimagery.step2.title",
-          //       "markdownDescription": "translate#stepbystepguide.satelliteimagery.step2.markdownDescription"
+          //       "title": "stepbystepguide.satelliteimagery.step2.title",
+          //       "markdownDescription": "stepbystepguide.satelliteimagery.step2.markdownDescription"
           //     },
           //     {
-          //       "title": "translate#stepbystepguide.satelliteimagery.step3.title",
-          //     "markdownDescription": "translate#stepbystepguide.satelliteimagery.step3.markdownDescription"
+          //       "title": "stepbystepguide.satelliteimagery.step3.title",
+          //     "markdownDescription": "stepbystepguide.satelliteimagery.step3.markdownDescription"
           //     },
           //     {
-          //       "title": "translate#stepbystepguide.satelliteimagery.step4.title",
-          //       "markdownDescription": "translate#stepbystepguide.satelliteimagery.step4.markdownDescription"
+          //       "title": "stepbystepguide.satelliteimagery.step4.title",
+          //       "markdownDescription": "stepbystepguide.satelliteimagery.step4.markdownDescription"
           //     }
           //   ]
           // },
           // {
-          //   "title": "translate#stepbystepguide.comparetimeseries.title",
-          //   "footnote": "translate#stepbystepguide.comparetimeseries.footnote",
+          //   "title": "stepbystepguide.comparetimeseries.title",
+          //   "footnote": "stepbystepguide.comparetimeseries.footnote",
           //   "steps": [
           //     {
-          //       "title": "translate#stepbystepguide.comparetimeseries.step1.title",
-          //       "markdownDescription": "translate#stepbystepguide.comparetimeseries.step1.markdownDescription"
+          //       "title": "stepbystepguide.comparetimeseries.step1.title",
+          //       "markdownDescription": "stepbystepguide.comparetimeseries.step1.markdownDescription"
           //     },
           //     {
-          //       "title": "translate#stepbystepguide.comparetimeseries.step2.title",
-          //       "markdownDescription": "translate#stepbystepguide.comparetimeseries.step2.markdownDescription"
+          //       "title": "stepbystepguide.comparetimeseries.step2.title",
+          //       "markdownDescription": "stepbystepguide.comparetimeseries.step2.markdownDescription"
           //     },
           //     {
-          //       "title": "translate#stepbystepguide.comparetimeseries.step3.title",
-          //       "markdownDescription": "translate#stepbystepguide.comparetimeseries.step3.markdownDescription"
+          //       "title": "stepbystepguide.comparetimeseries.step3.title",
+          //       "markdownDescription": "stepbystepguide.comparetimeseries.step3.markdownDescription"
           //     },
           //     {
-          //       "title": "translate#stepbystepguide.comparetimeseries.step4.title",
-          //       "markdownDescription": "translate#stepbystepguide.comparetimeseries.step4.markdownDescription"
+          //       "title": "stepbystepguide.comparetimeseries.step4.title",
+          //       "markdownDescription": "stepbystepguide.comparetimeseries.step4.markdownDescription"
           //     }
           //   ]
           // }
